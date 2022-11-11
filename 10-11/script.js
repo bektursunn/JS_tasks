@@ -24,17 +24,17 @@ const showBlue = () => {
 youtube.onmouseover = showYoutube;
 Blue.onmouseover = showBlue;
 
-
-const arguments = ['amir', 'good boy', 'ailytanai', 'good girl'];
-function showArguments() {
-    let arr = [];
-    for (let i = 0; i < arguments.length; i++) {
-        arr += arguments[i];
-    }
-    return arr;
-}
-
-console.log(showArguments(arguments));
+//
+// let arr = [];
+// function showArguments('amir', 'good boy', 'ailytanai', 'good girl') {
+//
+//     for (let i = 0; i < showArguments.length; i++) {
+//         arr += showArguments[i];
+//     }
+//
+// }
+//
+// console.log(arr);
 
 
 
