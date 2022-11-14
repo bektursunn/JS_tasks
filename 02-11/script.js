@@ -1,5 +1,5 @@
 function hello(text) {
-    alert(text);
+    return text;
 }
 hello('Hello JavaScript');
 
