@@ -9,7 +9,7 @@
     font-size: 20px;
 }
 
-.notification{
+.d-none{
     display: none;
 }
 
@@ -26,7 +26,6 @@
 
 .secondary {
     width: 400px;
-    margin: 20px 0px;
     text-align: center;
     padding: 20px;
     border-radius: 10px;
@@ -45,4 +44,17 @@
     color: #073d23;
     background-color: #d1e7dd;
     border-color: #badbcc;
+}
+.qwerty{
+    /*width: 400px;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+.icon{
+    border: none;
+    background: none;
+    width: 20px;
+    height: 20px;
+    top:300px;
 }
