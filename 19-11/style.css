@@ -1,0 +1,55 @@
+.btn{
+    margin: 20px;
+    display: flex;
+    padding: 20px 40px;
+    border-radius: 10px;
+    border: none;
+    color: #f30246;
+    background-color: #e5e7ef;
+    font-size: 20px;
+}
+
+.d-none{
+    display: none;
+}
+
+.primary {
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #084298;
+    background-color: #cfe2ff;
+    border-color: #b6d4fe;
+}
+
+.secondary {
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #3c5665;
+    background-color: #e2e3e5;
+    border-color: #d3d6d8;
+}
+
+.success {
+    width: 400px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #073d23;
+    background-color: #d1e7dd;
+    border-color: #badbcc;
+}
+
+.icon{
+    border: none;
+    background: none;
+    width: 40px;
+    height: 40px;
+    top:300px;
+}
